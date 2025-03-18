@@ -1,7 +1,3 @@
-# NFT-Art-Marketplace-
-Create a platform to buy, sell, and auction digital art as NFTs.
-module NFTArtMarketplace::Marketplace {
-
     use aptos_framework::signer;
     use aptos_framework::coin;
     use aptos_framework::aptos_coin::AptosCoin;

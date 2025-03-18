@@ -1,0 +1,15 @@
+[package]
+name = "NFT-Art"
+version = "1.0.0"
+authors = []
+
+[addresses]
+NFTArtMarketplace ="0xabdc8f9d555efc9e52d8f04560acf91392068748ae5ebf8c0ae9e77a8f4c192"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
